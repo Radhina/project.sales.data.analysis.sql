@@ -3,3 +3,4 @@ Analyse Data from a Sales Records database for scale model cars and extract info
 
 1. Which Product should we Order More or Less of?
 2. How should we Match Marketing and Communication Strategies to Customer Behaviour?
+3. How much can we spend on Acquiring New Customers?
