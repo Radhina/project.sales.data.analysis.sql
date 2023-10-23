@@ -1,5 +1,5 @@
-
---How much Profit Each Customer Generates
+--How should we Match Marketing and Communication Strategies to Customer Behaviour?
+--Query for how much Profit Each Customer Generates
  Select o.customerNumber,
         SUM(quantityOrdered * (priceEach - buyPrice)) As Profit
    From products p
@@ -9,7 +9,7 @@
      ON od.orderNumber = o.orderNumber
   GROUP BY o.customerNumber;
   
-  --Top Five VIP Customers
+ -- Query to Find Top Five VIP Customers
 WITH CustomerProfits AS (
   SELECT o.customerNumber, SUM(quantityOrdered * (priceEach - buyPrice)) AS profit
     FROM products p
@@ -27,7 +27,7 @@ SELECT c.contactLastName, c.contactFirstname, c.city, c.country, cp.profit
  ORDER BY cp.profit DESC
  LIMIT 5;
  
---Top Five Least Engaged Customers
+-- Query to find Top Five Least Engaged Customers
 WITH CustomerProfits AS (
   SELECT o.customerNumber, SUM(quantityOrdered * (priceEach - buyPrice)) AS profit
     FROM products p
