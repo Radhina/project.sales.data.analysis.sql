@@ -23,6 +23,8 @@ Based on our analysis, the top priority for restocking should be "Classic Cars."
 | 1998 Chrysler Plymouth Prowler            | Classic Cars   |
 | 1992 Ferrari 360 Spider red               | Classic Cars   |
 
+![Product Sales by Category](https://github.com/Radhina/project.sales.data.analysis.sql/blob/main/CH.png)
+
 **Question 2: How should we match marketing and communication strategies to customer behaviors?**
 
 We have identified two crucial customer segments for tailored marketing:
