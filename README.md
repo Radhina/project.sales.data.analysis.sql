@@ -43,6 +43,15 @@ We have identified two crucial customer segments for tailored marketing:
 - Carine Schmitt from Nantes, France
 - Thomas Smith from London, UK
 
+  | VIP Customers                   | Least Engaged Customers         |
+| ------------------------------   | -------------------------------   |
+| Diego Freyre from Madrid, Spain | Mary Young from Glendale, USA    |
+| Susan Nelson from San Rafael, USA | Leslie Taylor from Brickhaven, USA |
+| Jeff Young from NYC, USA        | Franco Ricotti from Milan, Italy  |
+| Peter Ferguson from Melbourne, Australia | Carine Schmitt from Nantes, France |
+| Janine Labrune from Nantes, France | Thomas Smith from London, UK    |
+
+
 Identifying these customer segments enables us to drive loyalty among VIP customers and develop strategies to engage with the least engaged customers effectively.
 
 **Question 3: How much can we spend on acquiring new customers?**
